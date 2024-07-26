@@ -11,17 +11,20 @@ Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 16 o supe
 
 ### Frontend
 
-1. **Navega al directorio del frontend:**
+1. **Clona el repositorio:**
+   git clone https://github.com/Psbecompany/Prueba-Pr-ctica-NODE-Senior-kcrm.git
+   cd Prueba-Pr-ctica-NODE-Senior-kcrm
 
-   ```bash
+2. **Navega al directorio del frontend:**
+
    cd frontend
 
-2. **Instala las dependencias:**
+3. **Instala las dependencias:**
 
 npm install
 
 
-3. **Inicia el servidor de desarrollo:**
+4. **Inicia el servidor de desarrollo:**
 
 npm run dev
 

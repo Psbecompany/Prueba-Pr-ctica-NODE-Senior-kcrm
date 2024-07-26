@@ -7,8 +7,14 @@ Este proyecto es un backend en Node.js utilizando PostgreSQL como base de datos.
 ## Instalación
 
 1. **Clona el repositorio:**
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+   git clone https://github.com/Psbecompany/Prueba-Pr-ctica-NODE-Senior-kcrm.git
+   cd Prueba-Pr-ctica-NODE-Senior-kcrm
+
+### BACKEND
+
+1. **Navega al directorio del backend:**
+
+   cd backend
 
 2. **Instala las dependencias:**
 
